@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1527904962 source:c:\users\rahel12\desktop\multiplly\src\multiply.cpp
+	"multiply.h"
+
+1527903988 c:\users\rahel12\desktop\multiplly\include\multiply.h
+
+1527904634 source:c:\users\rahel12\desktop\multiplly\main.cpp
+	<iostream>
+	"multiply.h"
+
+1527904896 source:c:\users\hp\documents\egdownloads\multiplly\main.cpp
+	<iostream>
+	"multiply.h"
+
+1527914790 c:\users\hp\documents\egdownloads\multiplly\include\multiply.h
+
+1527917424 source:c:\users\hp\documents\egdownloads\multiplly\src\multiply.cpp
+	"multiply.h"
+
